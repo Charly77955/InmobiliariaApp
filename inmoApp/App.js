@@ -1,6 +1,7 @@
 import React from 'react'
-import Main from './src/components/Main'
+import MainStack from './src/navigation/MainStack'
+
 
 export default function App(){
-  return <Main/>
+  return <MainStack/>
 }
