@@ -1,0 +1,38 @@
+{
+    "Inmuebles": [
+        {
+            "id": "1",
+            "name": "Departamento en Puerto Madero",
+            "imagen": "./imagesInmo/depto-puertomadero.png"
+            
+        },
+        {
+            "id": "2",
+            "name": "Departamento en San Andres",
+            "imagen": "imagesinmo/depto-sanandres.png"
+        },
+        {
+            "id": "3",
+            "name": "Departamento en San Martin",
+            "imagen": "imagesinmo/depto-sanmartin.png"
+        },
+        {
+            "id": "4",
+            "name": "Casa en Villa del Parque",
+            "imagen": "imagesinmo/casa-villadelparque.png"
+
+        },
+        {
+            "id": "5",
+            "name": "Casa en Mataderos",
+            "imagen": "imagesinmo/casa-mataderos.png"
+        },
+        {
+            "id": "6",
+            "name": "Casa en Gral Mitre",
+            "imagen":"imagesinmo/casa-gralmitre.png"
+        }
+
+    ]
+    
+}
