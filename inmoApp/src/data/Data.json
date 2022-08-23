@@ -1,36 +1,36 @@
-{
+{   
     "Inmuebles": [
         {
             "id": "1",
             "name": "Departamento en Puerto Madero",
-            "imagen": "./imagesInmo/depto-puertomadero.png"
+            "imagen": "https://grupoaurora.pe/blog/wp-content/uploads/2020/10/descubre-diferentes-formas-hacer-feng-shui-departamentos.jpg"
             
         },
         {
             "id": "2",
             "name": "Departamento en San Andres",
-            "imagen": "imagesinmo/depto-sanandres.png"
+            "imagen": "https://toribioachaval.com/imagenes/proaimg/propiedad/sitio/572/572497.jpg"
         },
         {
             "id": "3",
             "name": "Departamento en San Martin",
-            "imagen": "imagesinmo/depto-sanmartin.png"
+            "imagen": "https://www.ciudaris.com/blog/wp-content/uploads/ventajas-vivir-departamento-03.jpg"
         },
         {
             "id": "4",
             "name": "Casa en Villa del Parque",
-            "imagen": "imagesinmo/casa-villadelparque.png"
+            "imagen": "https://static.tokkobroker.com/water_pics/54713945650678323355739650388976407222042649780142299622833495848818073647720.jpg"
 
         },
         {
             "id": "5",
             "name": "Casa en Mataderos",
-            "imagen": "imagesinmo/casa-mataderos.png"
+            "imagen": "https://imgar.zonapropcdn.com/avisos/1/00/48/21/84/01/720x532/1774647833.jpg"
         },
         {
             "id": "6",
             "name": "Casa en Gral Mitre",
-            "imagen":"imagesinmo/casa-gralmitre.png"
+            "imagen":"https://cdn.mudafy.com/__sized__/properties/property_683271/2022-05-07_17211635135092435966496797152216710219151188525606_1JauLDL-thumbnail-1280x720-70.jpg"
         }
 
     ]
