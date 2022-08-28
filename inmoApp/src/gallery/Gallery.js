@@ -22,6 +22,7 @@ export default function Gallery() {
               <Text style={styles.textBath}>2</Text>
               <Text style={styles.textWarehouse}>150m2</Text>
               <Text style={styles.textUbication}>Dasso 2321,CABA</Text>
+              <Text style={styles.textPrice}>$510m2</Text>
           <FontAwesomeIcon icon={faBookmark} 
           style={styles.iconfaBookmark}/>
            <FontAwesomeIcon icon={faBed} 
@@ -68,7 +69,7 @@ const styles = StyleSheet.create({
       borderColor: '#2a4944'
     },
     textStyle: {
-      fontSize: 15,
+      fontSize: 17,
       width:300,
       paddingTop: 2,
       color: 'white',
@@ -78,26 +79,26 @@ const styles = StyleSheet.create({
     iconBed:{
       color:"#000000",
       left: 190,
-      bottom: 163,
+      bottom: 187,
       width: 0,
       height: 0
    },
    iconBath: {
     left: 230,
-    bottom: 180,
+    bottom: 204,
     width: 0,
     height: 0
   },
   iconWarehouse:{ 
     left: 270,
-    bottom: 195,
+    bottom: 220,
     width: 0,
     height: 0,
     color:"#000000"
   },
   iconLocation:{
     left: 180,
-    bottom: 280,
+    bottom: 305,
     width: 0,
     height: 0
   },
@@ -131,9 +132,16 @@ const styles = StyleSheet.create({
   },
   iconfaBookmark:{
     left: 320,
-    bottom: 90,
+    bottom: 120,
     width: 0,
     height: 0
+  },
+  textPrice:{
+    left: 190,
+    bottom: 110,
+    color:"#000000",
+    fontWeight: 'bold',
+    fontSize: 18
   }
   
 });
